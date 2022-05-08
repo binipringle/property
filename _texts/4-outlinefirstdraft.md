@@ -195,7 +195,94 @@ Holding: Citing the paramount values of definiteness, certainty, alienability, a
 
 ## Easements
 
-Easements (class #s 23-24)
+An **easement** is a right to nonpossessory use of land that generally serves the productive use of land.
+
+An **appurtenant easement** benefits the holder of the easement in her use of a specific parcel of land. The parcel of land used by the holder of the easement is the **dominant tenement (or property)**. Because an appurtenant easement is seen as attached to land, the easement holder’s transfer of the dominant land automatically transfers the benefit of the appurtenant easement to the grantee.
+
+
+An **easement in gross** is not connected to easement holder’s use of any particular parcel of land; it is personal to the holder (e.g., the right to hunt foxes on land, right to place advertisements on property).
+
+The land that is burdened by an easement (of either type) is the **servient tenement (or property)**.
+
+The burden must also be transferred. The burden is transferred if the original servient owner transfers land to a new servient owner. The new servient owner is subject to easement unless they are a Bona Fide Purchaser and thus was without any notice of easement. The modern trend is to allow the transfer of an easement in gross unless the parties had a contrary intent.  (NOTE: In some states, an easement in gross is transferable only if it serves a commercial purpose.)
+
+**Methods of creation of easement**
+
+An easement can be created by (1) an express grant (requires a writing) or (2) by operation of law. An easement by operation of law can be implied by (a) prior use; (b) necessity; (c) prescription (similar to adverse possession); or (d) estoppel.
+
+An affirmative easement allows holder to perform an act on servient land; a negative easement allows the holder to prevent servient owner from performing an act on the servient land.  Common negative easements include those for light, air, to prevent blocking view of dominant owner, to prevent excavating that might compromise support of a neighboring structure, and a conservation easement (preventing development).
+
+**Express easement**
+
+An **(1) express easement** must be (i) voluntarily created in a (ii) writing by servient owner either by (iii-a) grant to dominant owner (easement holder) or by (iii-b) reservation when dominant owner conveys portion of a larger parcel to a different owner but retains/reserves an easement over the servient (conveyed) property. To be complete, an express easement must (a) identify the parties; (b) describe the servient land and dominant land, if any (if the easement is in gross there is no dominant land); (c) describe exact location of easement on servient land; and (4) state the purpose for which the easement may be used.
+
+**Easement implied by prior use**
+
+For a court to find that there is an **easement implied by prior use**, there must be (i) single ownership of dominant and servient parcels; (ii) conveyance or other transfer separating that ownership; (iii) before the conveyance dividing owner’s unified title, owner of parcel used one part of the unified parcel for the benefit of another part of it; (iv) before the conveyance, owner’s use was apparent and obvious, continuous, and permanent; (v) circumstances at the time of the severance of title indicate that original owner intended to give grantee an easement across what remained of owner’s land; AND/OR (vi) claimed easement is necessary and beneficial to the enjoyment of the parcel conveyed or retained by the grantor. Easement is justified by the presumed intent of the parties, so no compensation is required to be paid to servient owner. *Emanuel v. Hernandez* (Emanuel asserted that an easement implied by prior use authorized use of a driveway partly located on adjoining owner’s property; the two parcels were originally owned by one person).
+
+In *Emanuel v. Hernandez*, the court held that evidence of the prior use element was lacking because plaintiff did not establish that owner of the original united parcel (before transferring part of it) made an apparent, obvious, continuous, permanent use of the part of the property he retained for the benefit of the part he conveyed to establish that current use of the driveway was implied by owner’s pre-existing use.
+
+**Easement by necessity**
+
+For a court to find that there is an **easement by necessity**, there must be (i) a division of property originally held by a single owner; and (ii) this division resulted in creating a landlocked parcel. In this situation, (iii) the owner of the servient estate is entitled to select route of easement by necessity, so long as it is reasonable; and (iv) easement remains in effect as long as necessity exists. (v) Easement will not arise if this would contradict affirmative showing of actual intent of the parties not to provide access rights. Under the majority rule and Restatement (Third) of Property, the standard for necessity is reasonable necessity, that is, beneficial or convenient for the use of the dominant parcel, but not absolutely necessary, which is a standard even more favorable to the easement holder than the standard in Berge. Easement is justified by the presumed intent of the parties, so no compensation is required to be paid to servient owner. *Berge v. State of Vermont* (original owner conveyed part of property to State for wildlife preserve; parcel she held and later conveyed to another was landlocked but bordered a lake on one side)
+
+In *Berge v. State of Vermont*, the court held that without use of road across state land, property owner would have no reasonably consistent, practical means of reaching his property if relying solely on water access to property, given vicissitudes of weather, etc.; today’s standards compel the conclusion that access to navigable water is generally not legally sufficient, standing alone, to defeat a finding of necessity based on property being otherwise landlocked.
+
+NOTE: reasonable necessity is essentially the same standard that applies under easement implied by prior use.
+
+**Prescriptive easement**
+
+For a court to find that there is a **prescriptive easement**, there must be (i) adverse easement-like limited use of another’s land rather than possession of the land; (ii) adverse use was continuous and uninterrupted (iii) for the requisite number of years (10 years in the O’Dell case); (iv) adverse use was actually known to owner of the land or (v) so open, notorious, and visible that a reasonable owner of the land would have noticed the use and reasonably identified (a) starting and end point and dimensions of land adversely used and (b) manner or purpose to which land was used. Adverse use generally means use of property as the owner herself would exercise, entirely disregarding the claims of others, asking permission from no one. A prescriptive easement may be used by more than one person, and thus exclusivity is not required. An easement is not a possessory estate; thus, for there to be an easement, actual possession is not required.[^4] no compensation is required to be paid to servient owner for an easement acquired by prescription. *O’Dell v. Stegall* (plaintiff claims prescriptive right to use gravel lane to access his property, relying on his own and predecessors’ use of the lane to access land that he now owned).
+
+In *O’Dell v. Stegall*, the court held that claimant seeking to establish easement to use gravel road for ingress and ingress to his property did not meet burden of proof. Claimant wholly failed to show that the defendants owned the land upon which the gravel lane rests, and failed to show that the prior use of the gravel lane, by himself and his predecessors, for the statutory period of 10 years* was adverse, that is, in any way wrongful toward, or without the express or implied permission of, the owner of the servient estate. Presumably, O’Dell had to show tacking because he did not use the lane for the requisite 10 years. (Tacking allows the adverse possession periods of two or more successive occupants to be added together to meet the statutory period for possession, but only if the occupants are in privity of estate, that is, where one occupant transfers apparent rights in the property to a successor by a deed or will, which benefits the successor by providing some evidence of title (color of title).)
+
+[^4]:The list of elements we get from *O’Dell v. Stegall* is similar but not identical to elements we learned for adverse possession. (Recall that adverse possession of land also includes the requirement of (1) exclusive possession and (2) actual possession of land in the same manner as a reasonable owner would possess it, given the land’s s character, location, and nature. Neither element applies to a showing of a prescriptive easement).
+
+**Easement by estoppel**
+
+There is an **easement by estoppel** when, for example, a servient owner orally grants and then takes back permission for the supposed easement holder to use land after the latter has relied to her detriment on use of land. Relying mainly on the Restatement of Servitudes, the court generally rules that if injustice can be avoided only by establishment of a servitude (easement), the owner or occupier of land is estopped to deny the existence of a servitude (easement) burdening the land when (i) the owner or occupier permitted another to use that land (ii) under circumstances in which it was reasonable to foresee that the user would (iii) substantially change position believing that the permission would not be revoked, and (iv) the user did substantially change position in reasonable reliance on that belief.
+
+In *Kienzle v. Myers*, property owner Van Duyne orally agreed to allow adjoining property owner Bauer to run a sewer line through Van Duyne’s property and connect to the Van Duyne’s sewer trench, which in turn connected to a public sewer. Years later, Van Duyne’s successor in title reneges, which would require the easement holders, the Myers (Bauer’s successor in title) to incur expense to put in a separate sewer connection line. The court held that under these circumstances, the easement will arise by estoppel—servient owner (Van Duyne’s successor) would not be permitted to withdraw permission upon which the easement holder Bauer had reasonably relied, and on the basis of which she had substantially changed her position. But for Van Duyne’s acquiescence to Bauer’s use of her property, Bauer would have linked to the sewer wholly on her own property. Bauer’s decision to cross Van Duyne’s land constituted a change in position which placed her access to the public sewer out of her control, which disadvantaged Bauer.
+
+Some courts refer to easement by estoppel as an irrevocable license. The elements overlap significantly with those of easement by estoppel, where (1) landowner allows another to use land, creating a license; (2) licensee relied in good faith on the permission, usually by making physical improvement or incurring expense; and (3) the licensor knows or reasonably should expect this reliance will occur.
+
+The rule from *Marcus Cable Assocs. v. Krohn* is that an easement’s express terms, interpreted according to their generally accepted meaning, delineate the purposes for which the easement holder may use the property. Thus, if a particular purpose is not provided for in the grant, a use pursuing that purpose is not allowed.
+
+Although the common law does allow some flexibility in determining an easement holder’s rights (the manner, frequency, and intensity of an easement’s use may change over time to accommodate technological development, under the Restatement (Third) of Property (Servitudes) § 4.10), an express easement encompasses only those technological developments that further the particular purpose for which the easement was granted. Further, despite public benefits of wide distribution of cable TV service, court may not adopt an easement interpretation based on public policy unless that interpretation is supported by the grant’s terms. And if a use does not serve the easement’s express purpose, it becomes an unauthorized presence on the land whether or not it results in any noticeable burden to the servient estate In *Marcus Cable Assocs. v. Krohn* , the court held that while cable television may utilize electrical impulses to transmit communications, as Marcus Cable claims, the granting language in Hill County Electric’s easement does not convey the right to use the property for purposes of transmitting communications. Cable television transmission is not a more technologically advanced method of delivering electricity.
+
+**Termination of easements**
+
+Under the **abandonment doctrine**, in addition to nonuse, acts by the owner of the dominant tenement must conclusively and unequivocally manifest either (i) a present intent to relinquish the easement or (ii) a purpose inconsistent with its future existence.
+
+Example: Easement held abandoned when Railroad removed all of the railroad equipment, including switches and tracks, from the portion of the right-of-way running over the servient parcels of land, and, consistent with this, no move had been made to reinstitute service over the line, or to undertake replacement of the removed tracks and other infrastructure necessary to return the line to service.
+
+An express easement may terminate **by its own terms**.
+
+Example: An easement created to “continue for 50 years” ends after that period.
+
+**Condemnation of the servient land** also terminates the easement. In this event, the easement holder is entitled to just compensation.
+
+Example:  Government condemns (exercises power of eminent domain over) Tract A, owned by A, which is burdened by a right-of-way easement that neighboring property owner B has over Tract A, the servient land. When Government acquires Tract A, it also terminates the easement B held but B is entitled to just compensation for the loss of this non-possessory property interest.
+
+In **termination by estoppel**, an easement ends if the servient owner substantially changes his position in reasonable reliance on the easement holder’s statement that the easement will not be used in the future.
+
+Example: A (owner of servient property) is told by B, the easement holder, that B will no longer use the right- of-way over A’s land and A, in reliance on that statement, installs a swimming pool and adds a children’s play area with recreational equipment where the right–of-way had been. If B then insists on using the right-of-way, B’s easement will terminate on an estoppel theory.
+
+For **termination by merger**, if one person obtains title to both the easement and the servient land, then the easement terminates under the doctrine of merger.
+
+Example: Assume B holds an easement over Tract A, the servient land. B then buys Tract A from A, its owner. Once B acquires Tract A, B’s easement over the Tract and the Tract merge, and the easement terminates. Note: this will have meaning if B then conveys the land to C.  The easement can’t be revived.
+
+Another way of terminating an easement is by **misuse**. In some jurisdictions, if the easement holder seriously misuses the easement, it may be ended through forfeiture.
+
+Example: Assume B has the right to drive across adjoining property owner A’s property, to use it as a driveway. A’s land is the servient land and B’s is the dominant land. If B later purchased an adjacent lot and began to use his easement across A’s land to benefit the newly-purchased lot, then B has abused or misused his easement, and this will lead to its termination.
+
+For **termination by prescription**, essentially the same standard for acquiring a prescriptive easement applies to ending an easement.
+
+Example: if the servient owner blocks use of the easement in an open and notorious, adverse and hostile, and continuous manner for the prescriptive period, the easement ends.
+
+An easement can be terminated by **release**. The easement holder B may release the easement to the servient owner A by executing and delivering a writing that complies with the Statute of Frauds.
+
+Example: B signs a writing stating that B no longer claims an interest in using the easement it holds over A’s land, sufficiently describes the easement and the servient land in the writing, and releases the easement to A.
 
 ---
 

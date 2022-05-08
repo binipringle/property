@@ -14,15 +14,13 @@ toc:
 
 ---
 
-Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.
+Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.[^1]
 
 See [Cornell's LII index of property law terms and concepts](https://www.law.cornell.edu/wex/category/property_real_estate_law) for property law. Another free resource is [New York Real Propoerty Law at Public.Law](https://newyork.public.law/laws/n.y._real_property_law). Course materials are on [TWEN](https://lawschool.westlaw.com/manage/homepage.aspx?task=coursehomepage&courseid=305273).
 
 ---
 
 ## Real Estate Transactions
-
-Real estate transactions (class #s 18-20): Marketable Title, Seller’s Obligation to Disclose Conditions, Delivery of Deeds, Public Records/Recording Acts, Bona Fide Purchaser for Value, Chain of Title.
 
 A real estate sales transaction typically proceeds in distinct stages or segments:
 
@@ -36,35 +34,27 @@ A real estate sales transaction typically proceeds in distinct stages or segment
 
 **Marketable Title**
 
-Even if not expressed in purchase contract, every purchase contract contains an implied covenant that the seller will deliver marketable title at the closing, unless the parties agree to a different title standard.
+Even if not expressed in purchase contract, every purchase contract contains an implied covenant that the seller will deliver marketable title at the closing, unless the parties agree to a different title standard. Marketable title is title reasonably free from doubt that the seller owns the estate he is selling and there are no encumbrances on the property. A title is doubtful and unmarketable if it exposes the party holding it to the hazard of litigation. If a title problem is discovered shortly before closing, the seller has a reasonable time to cure it unless the contract stipulates that time is of the essence, and then the failure to act within the required time is a breach of contract. Title is made unmarketable by private encumbrances such as an easement or restrictive covenant. Existence of governmental restrictions (e.g., zoning regulations), does not make a title unmarketable. A seller’s failure to clear up violations of either private or governmental restrictions by the date of closing would also mean a failure to deliver marketable title. *Is there a typo in the last sentence?*
 
-Marketable title is title reasonably free from doubt that the seller owns the estate he is selling and there are no encumbrances on the property. A title is doubtful and unmarketable if it exposes the party holding it to the hazard of litigation
+**Marketable title is distinct from market value**. For example, the presence of hazardous waste on a property (which might impair the market value of the property) does not make title unmarketable. Obligation to deliver marketable title concerns title to property, not physical condition of property.
 
-If a title problem is discovered shortly before closing, the seller has a reasonable time to cure it unless the contract stipulates that time is of the essence, and then the failure to act within the required time is a breach of contract
+Once a buyer accepts the deed at closing, generally she can no longer sue to enforce any obligations imposed on the seller by the contract of sale, including the seller’s (express or implied) promise to deliver marketable title. Unless the parties agree otherwise, all rights under the contract of sale are extinguished or “merged” into the deed.
 
-As a general rule, existence of private encumbrances in property such as an easement or restrictive covenant makes title unmarketable; existence of governmental restrictions (e.g., zoning regulations), does not.
+---
 
-A seller’s failure to clear up violations of either private or governmental restrictions by the date of closing would also mean a failure to deliver marketable title.
+**Encumbrances of record**
 
-**Encumbrances of record that a reasonable buyer ordinarily would object to are mortgages, liens, easements, and restrictive covenants.**
+Encumbrances of record that a reasonable buyer ordinarily would object to are mortgages, liens, easements, and restrictive covenants. A buyer can agree in contract to accept “all restrictions...of record” which means they agree to accept a violation of an encumbrance. Violation of restriction exposes “party holding [title to property subject to] it to the hazard of litigation and make[s] such title doubtful and unmarketable." Although mere existence of zoning ordinances and similar public regulatory laws does not make title unmarketable, if property under contract violates a public restriction, most courts hold that title is unmarketable.
 
-Buyer can agree in contract to accept “all restrictions...of record” which means they agree to accept a violation of an encumbrance. Violation of restriction exposes “party holding [title to property subject to] it to the hazard of litigation and make[s] such title doubtful and unmarketable”
+In *Lohmeyer v. Bower* (Sup Ct Kansas 1951), the court held that violation of private restriction and government ordinance exposes the party holding property to the hazard of litigation and makes such title doubtful and unmarketable. [This is so even though] the contract provides the conveyance was to be made “subject to all restrictions and easements of record” because here it is the property’s violation of the private restriction imposed that renders the title unmarketable.
 
-Although mere existence of zoning ordinances and similar public regulatory laws does not make title unmarketable, if property under contract violates a public restriction, most courts hold that title is unmarketable.
-
-*Lohmeyer v. Bower* (Sup Ct Kansas 1951), holding: Violation of private restriction and government ordinance exposes the party holding property to the hazard of litigation and makes such title doubtful and unmarketable. [This is so even though] the contract provides the conveyance was to be made “subject to all restrictions and easements of record” because here it is the property’s violation of the private restriction imposed that renders the title unmarketable.
-
-NOTE: once a buyer accepts the deed at closing, generally she can no longer sue to enforce any obligations imposed on the seller by the contract of sale, including the seller’s (express or implied) promise to deliver marketable title. Unless the parties agree otherwise, all rights under the contract of sale are extinguished or “merged” into the deed.
+---
 
 **Merger doctrine**
 
-Deed is final agreement between buyer and seller concerning seller’s delivery of title and all prior terms between buyer and seller, whether written or oral, are extinguished, that is, they merge into the deed, and are unenforceable. Merger doctrine is harsh rule of law but all agreements in contract of sale relating to title must be incorporated into deed before parties tender or accept it.
+A deed is a final agreement between buyer and seller concerning seller’s delivery of title and all prior terms between buyer and seller, whether written or oral, are extinguished, that is, they merge into the deed, and are unenforceable. Merger doctrine is a harsh rule of law but all agreements in contract of sale relating to title must be incorporated into deed before parties tender or accept it. The merger doctrine has four exceptions: (1) mutual mistake in drafting final documents; (2) ambiguity in final documents; (3) existence of rights collateral to conveyance of title (i.e., not related to title, such as removing items stored on property); and (4) fraud in transaction.
 
-Merger doctrine has 4 exceptions: (1) mutual mistake in drafting final documents; (2) ambiguity in final documents; (3) existence of rights collateral to conveyance of title (i.e., not related to title, such as removing items stored on property); and (4) fraud in transaction.
-
-NOTE: Obligation to deliver marketable title concerns title to property, not physical condition of property.
-
-**Marketable title is distinct from market value**. Example: the presence of hazardous waste on property (which might impair the market value of the property] does not make title unmarketable.
+---
 
 **Application**
 
@@ -90,7 +80,7 @@ A fiduciary obligation exists whenever relationship with another involves a spec
 
 In most jurisdictions, seller of residential real property is obligated to disclose defects (1) they actually know about that (2) materially affect the value of the property and (3) are not known to or readily discoverable by a buyer. Many states impose the same duty on real estate brokers involved in the transaction.
 
-In *Stambovsky v. Ackley* (App Div 1st Dep’t 1991) (the “Poltergeist case”), the court allowed a narrow exception to caveat emptor where (1) condition is created by seller and (2) **materially** impairs value of contract, (3) is (a) peculiarly within knowledge of seller or (b) unlikely to be discovered by prudent purchaser exercising due care, and (4) nondisclosure is basis for rescission as matter of equity. Stambovsky differs both from modern majority rule and strict caveat emptor rule.[^1]
+In *Stambovsky v. Ackley* (App Div 1st Dep’t 1991) (the “Poltergeist case”), the court allowed a narrow exception to caveat emptor where (1) condition is created by seller and (2) **materially** impairs value of contract, (3) is (a) peculiarly within knowledge of seller or (b) unlikely to be discovered by prudent purchaser exercising due care, and (4) nondisclosure is basis for rescission as matter of equity. Stambovsky differs both from modern majority rule and strict caveat emptor rule.[^2]
 
 An objective approach defines “material” as that which affects a reasonable person’s decision to purchase the home. Jurisdictions that apply this approach examine whether the defect significantly decreases the market value of the property or whether a reasonable person would view the defect as important in her decision to purchase. The subjective approach adopted by a few jurisdictions focuses on whether the defect would affect the particular buyer’s decision to purchase the home.
 
@@ -108,7 +98,7 @@ Section 462 of N.Y. Real Property Law requires Seller of residential property (e
 
 Court focused in Stambovsky on the relationship between property reputation and value. Although buyer here probably could have learned about the property’s “haunted“ reputation, court seemed concerned about imposing a high burden on buyers to discover the existence of non-physical defects such as property “stigma.” See [N.Y. Real Property Law §443-A](https://newyork.public.law/laws/n.y._real_property_law_section_443-a) (no duty to disclose fact or suspicion related to occupancy by person having or suspected of having AIDS or where property is associated with homicide, suicide, other death, or felony)
 
-[^1]:In *Stambovsky*, although the buyer was not entitled to damages (remedy at law), he was entitled to go back to court and, if establishing the above requirements, receive his deposit back as part of rescission (equitable) remedy.
+[^2]:In *Stambovsky*, although the buyer was not entitled to damages (remedy at law), he was entitled to go back to court and, if establishing the above requirements, receive his deposit back as part of rescission (equitable) remedy.
 
 ---
 
@@ -149,13 +139,13 @@ The recorder’s office will use one of two systems: (1) the grantor-grantee ind
 
 Each state has a Recording Act which establishes the method for determining priority between adverse claimants. The three basic types of acts are race, notice and race-notice.
 
-In a race jurisdiction, the purchaser who records first has priority over a previously created interest, even if she actually knows about that interest. Only North Carolina and Louisiana still have race statutes.[^2]
+In a race jurisdiction, the purchaser who records first has priority over a previously created interest, even if she actually knows about that interest. Only North Carolina and Louisiana still have race statutes.[^3]
 
-[^2]:Example: “No conveyance of land . . shall be valid to pass any property, as against lien creditors or purchasers for a valuable consideration  . . But from the time of registration thereof . . “ (North Carolina). Unrecorded conveyance is valid as between the grantor and original purchaser. But to be protected against claims of a subsequent purchaser for value or lien creditor, the purchaser must record before they do.
+[^3]:Example: “No conveyance of land . . shall be valid to pass any property, as against lien creditors or purchasers for a valuable consideration  . . But from the time of registration thereof . . “ (North Carolina). Unrecorded conveyance is valid as between the grantor and original purchaser. But to be protected against claims of a subsequent purchaser for value or lien creditor, the purchaser must record before they do.
 
-In a notice jurisdiction, the subsequent bona fide purchaser for value has priority. This purchaser does not have to record in order to gain priority, but purchaser is still motivated to record quickly. If purchaser fails to record, they may lose the interest to a bona fide purchaser subsequent to them. About half of the states use notice statutes. Note: A subsequent purchaser would not be protected if s/he had some other kind of notice (actual or inquiry), or if she did not give valuable consideration.[^3]
+In a notice jurisdiction, the subsequent bona fide purchaser for value has priority. This purchaser does not have to record in order to gain priority, but purchaser is still motivated to record quickly. If purchaser fails to record, they may lose the interest to a bona fide purchaser subsequent to them. About half of the states use notice statutes. Note: A subsequent purchaser would not be protected if s/he had some other kind of notice (actual or inquiry), or if she did not give valuable consideration.[^4]
 
-[^3]:Example: “No Instrument affecting real estate is of any validity against subsequent purchasers for a valuable consideration, without notice, unless filed in the office of the recorder of the county in which the same lies, as hereinafter provided “(Iowa)
+[^4]:Example: “No Instrument affecting real estate is of any validity against subsequent purchasers for a valuable consideration, without notice, unless filed in the office of the recorder of the county in which the same lies, as hereinafter provided “(Iowa)
 
 In a race-notice, protection is given to the subsequent bona fide purchaser for value who both takes without notice and records first. Roughly half of the states have race-notice statutes. Note: “in good faith” is often used in place of “without notice.” In a race-notice statute, a subsequent purchaser or mortgagee in good faith must also record before the prior grantee records.   NOTE: first in time rule remains default rule unless the subsequent purchaser qualifies for protection under the state’s Recording Act.
 
@@ -232,11 +222,11 @@ NOTE: reasonable necessity is essentially the same standard that applies under e
 
 **Prescriptive easement**
 
-For a court to find that there is a **prescriptive easement**, there must be (i) adverse easement-like limited use of another’s land rather than possession of the land; (ii) adverse use was continuous and uninterrupted (iii) for the requisite number of years (10 years in the O’Dell case); (iv) adverse use was actually known to owner of the land or (v) so open, notorious, and visible that a reasonable owner of the land would have noticed the use and reasonably identified (a) starting and end point and dimensions of land adversely used and (b) manner or purpose to which land was used. Adverse use generally means use of property as the owner herself would exercise, entirely disregarding the claims of others, asking permission from no one. A prescriptive easement may be used by more than one person, and thus exclusivity is not required. An easement is not a possessory estate; thus, for there to be an easement, actual possession is not required.[^4] no compensation is required to be paid to servient owner for an easement acquired by prescription. *O’Dell v. Stegall* (plaintiff claims prescriptive right to use gravel lane to access his property, relying on his own and predecessors’ use of the lane to access land that he now owned).
+For a court to find that there is a **prescriptive easement**, there must be (i) adverse easement-like limited use of another’s land rather than possession of the land; (ii) adverse use was continuous and uninterrupted (iii) for the requisite number of years (10 years in the O’Dell case); (iv) adverse use was actually known to owner of the land or (v) so open, notorious, and visible that a reasonable owner of the land would have noticed the use and reasonably identified (a) starting and end point and dimensions of land adversely used and (b) manner or purpose to which land was used. Adverse use generally means use of property as the owner herself would exercise, entirely disregarding the claims of others, asking permission from no one. A prescriptive easement may be used by more than one person, and thus exclusivity is not required. An easement is not a possessory estate; thus, for there to be an easement, actual possession is not required.[^5] no compensation is required to be paid to servient owner for an easement acquired by prescription. *O’Dell v. Stegall* (plaintiff claims prescriptive right to use gravel lane to access his property, relying on his own and predecessors’ use of the lane to access land that he now owned).
 
 In *O’Dell v. Stegall*, the court held that claimant seeking to establish easement to use gravel road for ingress and ingress to his property did not meet burden of proof. Claimant wholly failed to show that the defendants owned the land upon which the gravel lane rests, and failed to show that the prior use of the gravel lane, by himself and his predecessors, for the statutory period of 10 years* was adverse, that is, in any way wrongful toward, or without the express or implied permission of, the owner of the servient estate. Presumably, O’Dell had to show tacking because he did not use the lane for the requisite 10 years. (Tacking allows the adverse possession periods of two or more successive occupants to be added together to meet the statutory period for possession, but only if the occupants are in privity of estate, that is, where one occupant transfers apparent rights in the property to a successor by a deed or will, which benefits the successor by providing some evidence of title (color of title).)
 
-[^4]:The list of elements we get from *O’Dell v. Stegall* is similar but not identical to elements we learned for adverse possession. (Recall that adverse possession of land also includes the requirement of (1) exclusive possession and (2) actual possession of land in the same manner as a reasonable owner would possess it, given the land’s s character, location, and nature. Neither element applies to a showing of a prescriptive easement).
+[^5]:The list of elements we get from *O’Dell v. Stegall* is similar but not identical to elements we learned for adverse possession. (Recall that adverse possession of land also includes the requirement of (1) exclusive possession and (2) actual possession of land in the same manner as a reasonable owner would possess it, given the land’s s character, location, and nature. Neither element applies to a showing of a prescriptive easement).
 
 **Easement by estoppel**
 
@@ -389,3 +379,5 @@ hello
 ---
 
 ## Footnotes
+
+[^1]:Little arrows will take you back to the text.

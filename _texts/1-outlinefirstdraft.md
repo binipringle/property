@@ -7,7 +7,7 @@ source:
 toc:
 - Real estate transactions
 - Easements
-- Cotenancy
+- co-tenancy
 - Leaseholds
 - Mortgages
 - Zoning
@@ -286,9 +286,70 @@ Example: B signs a writing stating that B no longer claims an interest in using 
 
 ---
 
-## Cotenancy
+## co-tenancy
 
-Cotenancy (class #s 13-14)
+Concurrent estates in land are **tenancy in common** and **joint tenancy**. The third concurrent estate, **tenancy by the entirety**, is limited to married couples.                    
+
+A co-owner of concurrent estate in land is known as a co-tenant. Each co-tenant has right to use and enjoy the entire parcel of land (unity of possession). At the same time, each co-owner under either of these two estates owns a fractional share of the property at issue.
+
+**Tenancy in common (TIC)**
+
+Granting language: If Owner conveys Greenacre “to Alma and Bea,” this creates a presumptive tenancy in common.
+
+In a tenancy in common, the shares of each grantee may or may not be equal. Each may transfer their interest to another person; the interest is freely alienable, devisable, and descendible. Finally, each has the right to use and possess the whole parcel, even if their fractional interest is smaller than the interests of other co-tenants.
+
+Example:  Owner conveys Redacre to “Alma, Bea, and Cecily as tenants in common,” and Bea then conveys her interest to Alma. Alma and Cecily are tenants in common; Alma now holds a 2/3 interest, and Cecily has the remaining 1/3 interest. Cecily with a 1/3 interest has as much right as Alma with a 2/3 interest to use and enjoy the entire property. But when the property is sold, the proceeds will be divided according to their proportionate shares.
+
+**Joint Tenancy (JT)**
+
+Granting language: Owner conveys Greenacre “to Alma and Bea as joint tenants with right of survivorship.” In most jurisdictions, this creates a joint tenancy.
+
+Like tenants in common, joint tenants have an undivided right to use and possess the whole property. But each joint tenant also has a right of survivorship. When Alma dies, Alma’s interest in the estate is removed, and Bea automatically becomes the sole owner of Greenacre. Because of the right of survivorship, a joint tenancy interest is neither devisable nor descendible. At common law and in some jurisdictions today, a joint tenancy is created only when the four unities of time, title, interest, and possession are present.
+
+(1) For the unity of **time** to be present, all joint tenants must acquire their interests at the same time. (cannot acquire interests on different days). (2) For the unity of **title** to be present, all joint tenants must acquire title by the same instrument. (If they receive their interests by different deeds, the unity of title is missing). (3) For the unity of **interest** to be present, all joint tenants must must have the same shares in the estate, equal in size and duration. (If Alma receives an undivided 2/3 interest and Bea an undivided 1/3 interest, there is no unity of interest). (4) For the unity of **possession** to be present, all joint tenants must must have an equal right to possess, use, and enjoy the whole property. If any of the 4 unities is missing, a tenancy in common - instead of a joint tenancy - is created.
+
+Example: Oscar conveys a 1/2 interest to Alice one day, and the next day conveys a 3/8 interest to Betty and a 1/8 interest to Carla. Does Oscar create a joint tenancy? No. The unities of time (property interest conveyed on different days), title (interest created by different deeds) and interest (shares in property are not equal) are missing; Alice, Betty, and Carla are tenants in common.
+
+**Unities that once existed can be lost**. If one joint tenant transfers her interest, the joint tenancy is severed. **The transfer breaks the unities of time and title**; the right of survivorship is destroyed; and the grantee becomes a tenant in common with the other concurrent owners.
+
+Example: Alma, Bea, and Cecily are joint tenants, each with a 1/3 interest, and Alma sells her interest to Dustin. Dustin has an undivided 1/3 interest as a tenant in common with Bea and Cecily; between themselves, Bea and Cecily remain joint tenants with a right of survivorship. If Dustin now dies, his tenancy in common interest will go to his devisees or heirs; but if Bea dies, her interest in the joint tenancy is removed, and Cecily with right of survivorship now has an undivided 2/3 interest, consisting of Cecily’s original share and Bea’s share.
+
+When an instrument granting an interest does not clearly create a joint tenancy or a tenancy in common, many states construe an instrument to presumptively create a tenancy in common rather than a joint tenancy, if the intention to create a joint tenancy is not clear. However, even without the actual use of the words “joint tenancy," if from the four corners of an instrument a court can interpret the intention of the grantor or testator as creating a survivorship estate, the court will deem the estate to be a joint tenancy with the right of survivorship. The modern trend is to consider evidence of grantor’s intent, even if not stated in deed, as in NY.
+
+**Tenancy by the Entirety**
+
+A **tenancy by the entirety** is created if Oscar conveys Greenacre “to Allen and Betty as tenants by the entirety.” Like a joint tenant, each tenant by the entirety has an undivided right to use and possess the whole property and a right of survivorship. But while a joint tenancy can be severed unilaterally by any joint tenant, a tenancy by the entirety can only be ended by death, divorce, or the agreement of both spouses. The common law viewed a husband and a wife as a unity. There were no individual parts to the tenancy that could be owned separately by either spouse. In most states that recognize this co-tenancy, neither spouse may transfer or encumber (e.g., mortgage) his or her interest. The principal benefit of tenancy by the entirety is that in many jurisdictions it allows the holders to partially shield their assets from creditors.
+
+**Occupation of jointly owned property by one co-tenant**
+
+If one co-tenant occupies jointly owned property and the other co-tenants do not, (1) co-tenants are obligated to pay their pro-rata share of operating and maintenance expenses of the property;  and on a sale of commonly owned property, a co-tenant who has paid less than their pro-rata share of operating and maintenance expenses must account to co-tenant who has contributed more than their pro-rata share; this is so even if the under-contributing co-tenant has been out of possession of the property. (2) BUT the fact that one tenant in common occupies the property and the other does not imposes no obligation on the occupying co-tenant to make any contribution for rental value to the latter in the absence of the occupying co-tenant’s (in-co-tenant) ouster of the non-occupying co-tenant. An ouster occurs when a co-tenant in possession refuses to allow another co-tenant to occupy the property, that is, excludes them. In this situation, the ousting co-tenant is acting as an adverse possessor, and the ousted co-tenant would have to go to court just as any other property owner would when there is evidence of adverse possession within the statutory period in the jurisdiction to avoid title to the ousted co-tenant’s share ripening in the adverse possessing co-tenant (assuming they meet all the elements of adverse possession). The out-co-tenant is not entitled to their pro rata share of the rental value, that is, what the rental could have been if the property had been rented out to a third party. (3) All tenants in common have a right to occupy all of the property (unity of possession) and if one chooses not to do so, the law concludes that the non-occupying co-tenant does not have the right to impose an “occupancy” charge on the other. (4) Without an agreement setting rights and responsibilities among the co-tenants, the default rules don’t account for the contextual factors that can make the rules unfair in application.
+
+In *Ashley v. Bullock* (Utah App 2013), the court held that once Bates survived the other joint tenant, at that point the Writing had not expired or been repudiated, and Bates had not yet been required to convey title. Therefore, the Writing was no longer unenforceable under the Statute of Frauds and court affirmed trial court ruling that the Bullocks had purchased the property. The court based its holding on the rules that (1) Under Utah law, when real property is held in joint tenancy, the signature of both owners is necessary to satisfy the Utah Statute of Frauds. (Here, Harris did not execute the Writing and therefore, no enforceable contract was formed in 1976 between Bates and the Bullocks). (2) When a joint tenant conveys “his interest therein by a valid deed,” he “ ‘severs and terminates the joint tenancy by the creation of a tenancy in common.’” But such a conveyance by valid deed does not convey the entire property because a joint tenant may not “dispose of more than his own interest in joint tenancy property, [in this case]  one-half thereof.” Id. (The Writing in this case indicates that Bates purported to contract to sell the entire property.). (3) Harris's interest passed to Bates, thereby giving him sole ownership of the Property. Although the contract was unenforceable when originally signed, Bates's acquisition of full title “revived” it because Harris's signature was no longer necessary to satisfy the Statute of Frauds and the Writing had not been repudiated in the meantime. **IMPORTANT NOTE:** Generally “a seller may make a valid contract to sell property, though the seller has no legal title to the property, as long as the seller has title when the time to convey arrives.”
+
+**Statute of frauds**
+
+To comply with the Statute of Frauds, there must typically be a writing including (i) names of the parties; (ii) adequate identification of the property; (iii) nature of interest to be transferred; (iv) price; and (v) signature of party to be charged (party against whom contract is to be enforced). No particular form of signature is generally required so long as there is reliable evidence that the person intended to authenticate the writing.
+
+**Termination of co-tenancy by tenant in common or joint tenant (other than by severance)**
+
+To terminate a co-tenancy, any tenant in common or joint tenant has the right to sue for partition of the property. A partition judgment ends the co-tenancy and distributes its assets. In such an action, the judge can either (1) physically divide the property between co-tenants (partition in kind) or (2) order the property to be sold and the proceeds divided.
+
+In *Ark Land Co. v. Harper* (Supreme Court of Appeals of W. Virginia), the court followed the rule that partition means the division of the land held in co-tenancy into the co-tenants’ respective fractional shares. If the land cannot be fairly divided, then the entire estate may be sold and the proceeds appropriately divided.
+
+**Partition in kind** is the preferred method of partition because it leaves co-tenants holding the same estates as before and does not force a sale on unwilling co-tenants. In *Ark Land*, the court noted that the laws in all jurisdictions “appear to ... provide a presumption of severance of common ownership in real property by partition in-kind[.]” The *Ark Land* court goes on to say that, in addition to economic value of property, evidence of longstanding ownership, coupled with sentimental or emotional interests in the property, may also be considered in deciding whether the interests of the party opposing the sale will be prejudiced by the property’s sale. NOTE: This is sometimes referred to as the “totality of the circumstances” approach but it is considered a minority approach. Most courts actually focus on maximizing economic value in determining whether partition should be in kind or by sale.
+
+Takeaway: in analyzing a problem of this sort, you’d start with the presumption that appears in most statutes in favor of partition in kind, but note that factors included in these statutes are often applied in a way that concludes that sale is more feasible.     
+
+In *Carr v. Dekking* (Wash. App. 1988), the court ruled that each tenant in common of real property may use, benefit, and possess the entire property subject only to the equal rights of co-tenants, and held that non-joining co-tenant is not entitled to eject lessee of other co-tenant from the property. The proper remedy is partition and until that occurs, lessee is entitled to farm the land under the lease. Non-joining co-tenant is entitled to the benefit of the other co-tenant-lessee lease terms, at his election, until a partition of the property occurs.
+
+**Lease of co-tenant's interest**
+
+A co-tenant may lawfully lease their own interest in the common property to another without the consent of the other co-tenant and without the other co-tenant joining in the lease. The lessee "steps into the shoes" of the leasing co-tenant and becomes a tenant in common with the other owners (co-tenants) for the duration of the lease. The Non-joining co-tenant is not bound by this lease of the common property to third persons. A Non-joining co-tenant may not demand exclusive possession as against the lessee, but may only demand to be let into co-possession. Alternatively, the non-joining co-tenant would seek partition.
+
+**Rights and responsibilities of co-tenants**
+
+- Right to contribution (reimbursement) or action for waste during co-tenancy. Co-tenant has right to receive reimbursement for paying operating expenses in excess of their pro-rata share. In some states, co-tenant who pays for needed repairs has right to contribution from other co-tenant(s) if notice is given of need for repair. A co-tenant may bring action for waste against other co-tenant.
+- Rights to credits that may be recouped at an accounting or partition sale. Co-tenant has right to share of rents or profits generated by property, including profits from extracting resources such as minerals or timber. Co-tenant who pays for needed repairs and hasn’t been otherwise reimbursed will receive a credit for these costs in an accounting or partition action. Co-tenant who improves the property receives a credit equal to the increased market value produced by the improvement in an accounting action or a partition action. Co-tenant in exclusive possession is not liable to other co-tenant(s) for pro-rata share of fair rental value unless this co-tenant ousted other co-tenant(s).
 
 ---
 

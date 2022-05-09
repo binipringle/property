@@ -20,18 +20,6 @@ See [Cornell's LII index of property law terms and concepts](https://www.law.cor
 
 ---
 
-## Real Estate Transactions
-
-A real estate sales transaction typically proceeds in distinct stages or segments:
-
-1. Seller places property on market/lists with broker
-2. Seller and potential buyer execute written contract of saleà must be signed by seller; buyer puts down deposit
-3. Executory period: (a) gives buyer opportunity to investigate quality of title and obtain financing, which often is a condition of contract going forward. (b) Seller take steps, if needed, to ensure title is marketable.
-4. Closing: (a) seller conveys title via written, signed, and delivered deed, and (b) buyer pays balance of purchase price, usually with assistance of lender
-5. When buyer has financing, typically s/he executes a note embodying promise to repay loan and a mortgage, which makes purchased property security for the loan: (a) if buyer defaults on loan, lender can foreclose mortgage and sell property to recoup value of its loan
-
----
-
 **Marketable Title**
 
 Even if not expressed in purchase contract, every purchase contract contains an implied covenant that the seller will deliver marketable title at the closing, unless the parties agree to a different title standard. Marketable title is title reasonably free from doubt that the seller owns the estate he is selling and there are no encumbrances on the property. A title is doubtful and unmarketable if it exposes the party holding it to the hazard of litigation. If a title problem is discovered shortly before closing, the seller has a reasonable time to cure it unless the contract stipulates that time is of the essence, and then the failure to act within the required time is a breach of contract. Title is made unmarketable by private encumbrances such as an easement or restrictive covenant. Although mere existence of zoning ordinances and similar public regulatory laws does not make title unmarketable, if property under contract violates a public restriction, most courts hold that title is unmarketable. A seller’s failure to clear up violations of either private or governmental restrictions by the date of closing would also mean a failure to deliver marketable title.
